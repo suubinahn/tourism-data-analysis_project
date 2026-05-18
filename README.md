@@ -1,6 +1,11 @@
 ## 👩‍💻 담당 역할 (My Contribution)
 
 본 프로젝트는 3인 팀 프로젝트로 진행되었으며, 저는 **아이디어 기획과 데이터 분석 및 시각화 파트**를 담당했습니다.
+<img width="4000" height="2250" alt="8efd472d46d94f04eb02600dd1bb5ad1qlhmgtww5bd1GHmg-0" src="https://github.com/user-attachments/assets/b65bf2cc-1415-4b8a-ae86-ba239a4b3a08" />
+<img width="4000" height="2250" alt="8efd472d46d94f04eb02600dd1bb5ad1qlhmgtww5bd1GHmg-1" src="https://github.com/user-attachments/assets/05857b54-1cbf-4e05-a659-f2c91bf0df97" />
+<img width="4000" height="2250" alt="8efd472d46d94f04eb02600dd1bb5ad1qlhmgtww5bd1GHmg-2" src="https://github.com/user-attachments/assets/29726d79-7ff8-47f8-b462-832a33b3202c" />
+<img width="4000" height="2250" alt="8efd472d46d94f04eb02600dd1bb5ad1qlhmgtww5bd1GHmg-3" src="https://github.com/user-attachments/assets/562504ab-05c7-4c40-abb0-e03b47342e63" />
+<img width="4000" height="2250" alt="8efd472d46d94f04eb02600dd1bb5ad1qlhmgtww5bd1GHmg-4" src="https://github.com/user-attachments/assets/37765020-e3b6-4a00-973b-7674cc988073" />
 
 ---
 
